@@ -4,7 +4,7 @@
  * @license http://www.opensource.org/licenses/mit-license.php
  * @author Cameron Condry <ccondry2@gmail.com>
  */
-namespace Mailer\Email;
+namespace CBC\Mailer\Email;
 
 /**
  * Provides the ability to send email through a designated mailer.
