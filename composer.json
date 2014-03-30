@@ -13,7 +13,7 @@
         "psr-0": {"CBC\\Postal\\": "src/"}
     },
     "keywords": [
-        "email"
+        "email",
         "mailer",
         "postal",
         "pear"
