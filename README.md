@@ -17,9 +17,9 @@ Add the project to your composer file.
   <dt>composer.json</dt>
   <dd><pre>
 {
-  "require": {
-    "cbc/postal": "1.0.*"
-  }
+    "require": {
+        "cbc/postal": "1.0.*"
+    }
 }</pre></dd>
 </dl>
 
@@ -31,8 +31,8 @@ Deafult use requires the PEAR::Mail package.
 Create the base configs for the email, including any headers and the preferred backend interface.
 
 ```php
-use Mailer\Email\Mailer;
-use Mailer\Email\PearBackend;
+use CBC\Postal\Mailer;
+use CBC\Postal\PearBackend;
 
 $headers = array(
 	'To' => 'recipient@host.com',
