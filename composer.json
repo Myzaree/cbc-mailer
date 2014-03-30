@@ -1,5 +1,5 @@
 {
-    "name": "cbc/mailer",
+    "name": "cbc/postal",
     "type": "library",
     "description": "Simple mailer interface with a minimalist design.",
     "license": "MIT",
