@@ -8,6 +8,21 @@ About
 
 Provides handing for sending email using multiple interfaces. The package currently has the PEAR mailer wrapper included, but can include any number of interfaces for ease of use through a minimalistic API.
 
+Installation
+============
+
+Add the project to your composer file.
+
+<dl>
+  <dt>composer.json</dt>
+  <dd><pre>
+{
+  "require": {
+    "cbc/postal": "1.0.*"
+  }
+}</pre></dd>
+</dl>
+
 How to Use
 ==========
 

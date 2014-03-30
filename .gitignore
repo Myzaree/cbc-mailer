@@ -1,2 +1,13 @@
-# Mac
-*.DS_STORE
+# Vagrant metadata
+.vagrant
+
+# PHPStorm Files
+.idea
+
+# OSX
+.DS_STORE
+
+# Composer
+composer.lock
+vendor/*
+bin/*

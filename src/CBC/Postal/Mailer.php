@@ -1,14 +1,8 @@
 <?php
-/**
- * @package Mailer\Email
- * @license http://www.opensource.org/licenses/mit-license.php
- * @author Cameron Condry <ccondry2@gmail.com>
- */
-namespace CBC\Mailer\Email;
+namespace CBC\Postal;
 
 /**
  * Provides the ability to send email through a designated mailer.
- * @package Mailer\Email
  * @author Cameron Condry <ccondry@tls.net>
  */
 class Mailer implements MailerInterface {

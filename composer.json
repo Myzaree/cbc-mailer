@@ -1,0 +1,21 @@
+{
+    "name": "cbc/mailer",
+    "type": "library",
+    "description": "Simple mailer interface with a minimalist design.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cameron Condry",
+            "email": "ccondry2@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"CBC\\Postal\\": "src/"}
+    },
+    "keywords": [
+        "email"
+        "mailer",
+        "postal",
+        "pear",
+    ]
+}
